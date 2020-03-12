@@ -13,3 +13,8 @@ Este foi o primeiro evento da DjangoXP.
 
 **Palestrante:** [Igor Peternella](https://github.com/IgooorGP)
 
+
+### [E quando Django não aguenta sozinho?](https://docs.google.com/presentation/d/1kXA4rwD7IsyFmmlpcgW1OWoie_5dcupxMHKJvNx7e5o/edit#slide=id.p)
+
+**Palestrante:** [Luiz Guilherme Silva](https://github.com/guimesmo)
+
